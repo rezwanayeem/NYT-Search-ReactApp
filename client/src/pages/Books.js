@@ -3,7 +3,7 @@ import Container from "../components/Container";
 import SearchForm from "../components/SearchForm";
 import Card from "../components/Card";
 import BookDetail from "../components/BookDetail";
-import API from "../utils/API.js";
+import API from "../utils/API";
 
 class Books extends Component {
   state = {
